@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parkoriann
-- 🌱 I’m currently learning Java, c++, c
+- 🌱 I’m currently learning Flutter, Java, c++, c
 
 
 <!---
