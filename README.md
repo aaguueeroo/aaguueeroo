@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @parkoriann
-- 🌱 I’m currently learning Flutter, Java, c++, c
+- 📱 I'm a mobile app developer with knowledge in Flutter, Java and Swift
+- 🤓 I also did some projects in C and C++
+- 👾 I'm currently playing a bit with Unity and C#
+- 🌱 And always glad to keep learning
 
 
 <!---
