@@ -2,7 +2,7 @@
 - 📱 I'm a mobile app developer with knowledge in Flutter and Java, and also learning Swift
 - 👾 I'm currently playing a bit with Unity and C#
 - 📑 I prioritize software design in my projects
-- 🌱 And always glad to keep learning
+- 🌱 And I am always glad to keep learning
 
 
 <!---
