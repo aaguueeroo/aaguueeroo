@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @parkoriann
 - 📱 I'm a mobile app developer with knowledge in Flutter and Java, and also learning Swift
-- 👾 I'm currently playing a bit with Unity and C#
+- 👾 My unhealthiest hobby is Game Development
 - 📑 I prioritize software design in my projects
 - 🌱 And I am always glad to keep learning
 
