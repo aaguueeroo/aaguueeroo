@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @parkoriann
-- 📱 I'm a mobile app developer with knowledge in Flutter and Java, and also learning Swift
+- 📱 I'm a mobile app developer with knowledge in Flutter and Java, and currently learning Swift
 - 👾 My unhealthiest hobby is Game Development
 - 📑 I prioritize software design in my projects
 - 🌱 And I am always glad to keep learning
