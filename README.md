@@ -1,10 +1,10 @@
-👋 Hi, I’m @parkoriann
+👋 Hi, I’m Julia Agüero
 
-📱 I'm a mobile app developer with knowledge in Flutter and Java, and currently learning Swift
+📱 I'm a mobile app developer with knowledge of Flutter and Java
 
 👾 My unhealthiest hobby is Game Development
 
-📑 I prioritize software design in my projects
+📑 I prioritize a good software architecture in my projects
 
 🌱 And I am always glad to keep learning
 
