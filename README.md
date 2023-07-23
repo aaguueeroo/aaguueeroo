@@ -1,6 +1,6 @@
 👋 Hi, I’m Julia Agüero
 
-📱 I'm a mobile app developer with knowledge of Flutter and Java
+📱 I'm a Mobile App Developer with knowledge of Flutter and Java
 
 👾 My unhealthiest hobby is Game Development
 
