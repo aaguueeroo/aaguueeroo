@@ -2,9 +2,9 @@
 
 📱 I'm a Mobile App Developer with knowledge of Flutter and Java, besides other programming languages and frameworks
 
-👾 My unhealthiest hobby is Game Development
+👾 I would love to know more about Game Development
 
-📑 I prioritize a good software architecture in my projects
+📑 Software Engineering is so fun! And important for every project
 
 🌱 And I am always glad to keep learning
 
