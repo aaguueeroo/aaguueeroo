@@ -1,10 +1,10 @@
 👋 Hi, I’m Julia Agüero
 
-📱 I'm a Mobile App Developer with knowledge of Flutter and Java, besides other programming languages and frameworks
+📱 I'm a Mobile App Developer specialized in Flutter, but also with knowledge of Swift and Java
 
 👾 I would love to know more about Game Development
 
-📑 Software Engineering is so fun! And important for every project
+📑 The software architecture of my projects is as scalable as possible.
 
 🌱 And I am always glad to keep learning
 
