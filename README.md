@@ -1,12 +1,12 @@
-👋 Hi, I’m Julia Agüero
+👋 Hi, I’m Julia Agüero.
 
-📱 I'm a Mobile App Developer specialized in Flutter, but also with knowledge of Swift and Java
+📱 I'm a Mobile App Developer specialized in Flutter, but also with knowledge of Swift and Java.
 
-👾 I would love to know more about Game Development
+👾 I would love to know more about Game Development.
 
 📑 The software architecture of my projects is as scalable as possible.
 
-🌱 And I am always glad to keep learning
+🌱 And I am always glad to keep learning.
 
 
 <!---
