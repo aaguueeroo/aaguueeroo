@@ -1,12 +1,26 @@
-👋 Hi, I’m Julia Agüero.
+# 👋 Hi, I'm Julia Agüero
 
-📱 I'm a Mobile App Developer specialized in Flutter, but also with knowledge of Swift and Java.
+🎯 **Mobile App Developer | Flutter Specialist | Full-Stack Mindset**
 
-👾 I would love to know more about Game Development.
+I'm a mobile app developer with a strong focus on Flutter, creating high-quality, scalable applications with clean architecture. I also have experience with native development in Swift and Java, and I always aim to deliver maintainable code and a smooth user experience.
 
-📑 The software architecture of my projects is as scalable as possible.
 
-🌱 And I am always glad to keep learning.
+## 🚀 What I Do
+- 🛠️ Build cross-platform apps with Flutter
+- 🎨 Handle UX/UI design when needed
+- 🧠 Architect scalable, modular software solutions
+- 🔄 Manage the full app lifecycle—from concept to App Store/Play Store
+- 💬 Communicate clearly with stakeholders and teams
+
+
+## 👾 On My Radar
+- 🎮 I'm curious about game development and always looking to learn more
+- 🌱 I’m continuously improving my skills through new technologies and challenges
+
+---
+
+📬 **Let’s connect!**  
+Feel free to check out my [portfolio](https://juliaaguero.com) or reach out via [LinkedIn](https://www.linkedin.com/in/julia-aguero-fraguas/)
 
 
 <!---
