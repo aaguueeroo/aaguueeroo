@@ -20,7 +20,7 @@ I'm a mobile app developer with a strong focus on Flutter, creating high-quality
 ---
 
 📬 **Let’s connect!**  
-Feel free to check out my [portfolio](https://juliaaguero.com) or reach out via [LinkedIn](https://www.linkedin.com/in/julia-aguero-fraguas/)
+Feel free to check out my [portfolio](https://juliaaguero.com) or reach out via [LinkedIn](https://www.linkedin.com/in/julia-aguero-fraguas/) or [Twitter](https://x.com/aaguueeroo)
 
 
 <!---
