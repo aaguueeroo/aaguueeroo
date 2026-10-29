@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Julia Agüero
 
-🎯 **Mobile App Developer | Flutter Specialist | Full-Stack Mindset**
+🎯 **Computer Scientist | Starting Entrepreneur | Software Architecture Enthusiast**
 
-I'm a mobile app developer with a strong focus on Flutter, creating high-quality, scalable applications with clean architecture. I also have experience with native development in Swift and Java, and I always aim to deliver maintainable code and a smooth user experience.
+I'm a computer scientist with several years of experience developing mobile apps, mainly with Flutter, plus native development in Swift and Java. I care about clean architecture, maintainable code and a smooth user experience.
+
+These days my main focus is building my own company, [aaguueeroo.com](https://aaguueeroo.com). I'm just starting out as an entrepreneur and learning something new every day.
 
 ## 🚀 What I Do
 - 🛠️ Build cross-platform apps with Flutter
@@ -18,4 +20,5 @@ I'm a mobile app developer with a strong focus on Flutter, creating high-quality
 ---
 
 📬 **Let’s connect!**  
-Feel free to check out my [portfolio](https://juliaaguero.com) or reach out via [LinkedIn](https://www.linkedin.com/in/julia-aguero-fraguas/) or [Twitter](https://x.com/aaguueeroo)
+I'm always happy to connect with anyone, whether it's about tech, startups or just to say hi.  
+Check out my business at [aaguueeroo.com](https://aaguueeroo.com), my [portfolio](https://juliaaguero.com), or reach out via [LinkedIn](https://www.linkedin.com/in/julia-aguero-fraguas/) or [Twitter](https://x.com/aaguueeroo).
